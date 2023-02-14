@@ -17,7 +17,6 @@ To install python3, pip3 and python3-venv on ubuntu operating system using apt p
     sudo apt install python3
     sudo apt install python3-pip
 	sudo apt install python3-venv
-
     python3 --version
     pip3 --version
 ```
